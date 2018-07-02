@@ -1,0 +1,3 @@
+STEPS TO LEARN ANGULAR:
+
+1. Install NodeJS and Angular CLI.
